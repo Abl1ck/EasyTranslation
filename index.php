@@ -9,14 +9,16 @@
 # Copyright		: Copyright (C) 2019 Easysoft Cd.								#
 # 																	 			#
 #-------------------------------------------------------------------------------#
-namespace EasyTranslation\EasyTranslation;
+// Import use EasyTranslation namespace at the top of your script,
+// to prevent the execution error
+use EasyTranslation\EasyTranslation\EasyTranslation;
 
 include('src/EasyTranslation.php');
 
 class Example extends EasyTranslation{
 
     public function __construct() {
-		$this->setLanguage();							//ISO 639-1 2-character language (e.g. French is "fr")
+		$this->setLanguage();							// (e.g. French is "fr")
 		echo $this->translate('Welcome');
     }
 }
