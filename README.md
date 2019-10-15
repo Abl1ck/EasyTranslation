@@ -25,7 +25,9 @@ In addition to this, EasyTranslation offers the ability to format your Exception
 ## A Simple Example
 ```php
 <?php
-namespace EasyTranslation\EasyTranslation;
+// Import use EasyTranslation namespace at the top of your script,
+// to prevent the execution error
+use EasyTranslation\EasyTranslation\EasyTranslation;
 
 include('src/EasyTranslation.php');
 
