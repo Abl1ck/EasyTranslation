@@ -54,7 +54,7 @@ $this->setLanguage('fr');
 
 To load client or defaulft English version
 ```php
-// To load the French version
+// To load the client or English version
 $this->setLanguage();
 ```
 
