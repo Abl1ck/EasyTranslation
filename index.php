@@ -9,7 +9,7 @@
 # Copyright		: Copyright (C) 2019 Easysoft Cd.								#
 # 																	 			#
 #-------------------------------------------------------------------------------#
-// Import use EasyTranslation namespace at the top of your script,
+// Import EasyTranslation namespace at the top of your script,
 // to prevent the execution error
 use EasyTranslation\EasyTranslation\EasyTranslation;
 
