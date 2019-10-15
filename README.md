@@ -12,6 +12,6 @@ Features:
 
 Author: [Alvin Mambele](https://github.com/Easysoft-cd)
 
-Copyright: Copyright © 2019 Interativa Digital
+Copyright: Copyright © 2019 Easysoft CD
 
 License: The GPL License (GPL)
