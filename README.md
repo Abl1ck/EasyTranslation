@@ -42,6 +42,32 @@ class Example extends EasyTranslation{
 new Example();
 ```
 
+You will find more examples at the [examples](https://github.com/Easysoft-cd/EasyTranslation/tree/master/exemples) folder
+
+## Localization
+EasyTranslation defaults to English, but in the [language](https://github.com/Easysoft-cd/EasyTranslation/tree/master/exemples/languages) folder you will find 3 translations for the error messages provided by EasyTranslation. Their filenames contain first two characters of [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) language code for the translations, for example `fr` for French. To specify a language, you need to tell EasyTranslation which one to use, like this:
+
+```php
+// To load the French version
+$this->setLanguage('fr');
+```
+
+To load client or defaulft English version
+```php
+// To load the French version
+$this->setLanguage();
+```
+
+We welcome corrections and new languages.
+
+
+## Contributing
+Please submit bug reports, suggestions and pull requests to the [GitHub issue tracker](https://github.com/Easysoft-cd/EasyTranslation/issues).
+
+We are particularly interested in troubleshooting incidents, extending test coverage and updating translations, as well as innovations.
+
+
+
 Copyright: Copyright © 2019 Easysoft CD
 
 License: The GPL License (GPL)
