@@ -1,4 +1,7 @@
 # EasyTranslation
+[![Build Status](https://travis-ci.org/Easysoft-cd/EasyTranslation.svg?branch=master)](https://travis-ci.org/Easysoft-cd/EasyTranslation) 
+[![Latest Stable Version](https://poser.pugx.org/Easysoft-cd/EasyTranslation/v/stable.svg)](https://packagist.org/packages/Easysoft-cd/EasyTranslation) 
+[![Total Downloads](https://poser.pugx.org/Easysoft-cd/EasyTranslation/downloads.svg)](https://packagist.org/packages/Easysoft-cd/EasyTranslation)
 
  A simple php class helping to build multilingual websites or apps.
 
