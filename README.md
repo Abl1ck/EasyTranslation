@@ -1,5 +1,7 @@
 # EasyTranslation
 
+[![Build Status](https://travis-ci.org/Abl1ck/EasyTranslation.svg?branch=master)](https://travis-ci.org/Abl1ck/EasyTranslation) 
+
  A simple php class helping to build multilingual websites or apps.
 
 Features:  
